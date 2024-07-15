@@ -1,6 +1,6 @@
 # Live IPL Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/f8f88fd8-9d57-49b5-abc3-310d9ca6ca19/ReportSection?experience=power-bi
+
 
 ## Problem Statement
 
